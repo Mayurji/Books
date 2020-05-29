@@ -7,3 +7,11 @@
   * Biography
   * Thriller
   * Drama
+
+### Book Available
+
+    Man's Search for Meaning
+    The Bird up Chronicle
+    Norwegian Wood
+    Auto-Biography of Martin Luther King
+    The Whisper Man
