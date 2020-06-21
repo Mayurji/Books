@@ -15,3 +15,4 @@
     Norwegian Wood
     Auto-Biography of Martin Luther King
     The Whisper Man
+    Walter Isaacson's Steve Jobs
